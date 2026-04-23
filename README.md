@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=carloscabral656)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscabral656)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=carloscabral656)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=carloscabral656)
