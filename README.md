@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou o Carlos Eduardo 👋
 
 <!--
 **carloscabral656/carloscabral656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=carloscabral656)
+I’m currently working on Web Development
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloscabral656&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscabral656&layout=compact&theme=tokyonight"/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscabral656)
 
